@@ -1,0 +1,30 @@
+@media(max-width: 834px){
+    .img-collection{
+        width: 1211px;
+        height: 332px;
+        background-position: center;
+        background-size: cover;
+    }
+    .img-collection .right{
+        width: 1211px;
+        height: 332px;
+        background-position: center;
+        background-size: cover;
+    }
+    .img-collection .left{
+        height: 328px;
+    }
+    .left .img1, .left .img2, .left .img3{
+        width: 95px;
+        height: 96px;
+        background-position: center;
+        margin-bottom: 20px;
+        background-size: cover;
+    }
+    .bottom-img{
+        width: 533px;
+        height: 286.16px;
+        background-position: center;
+        background-size: cover;   
+    }
+}

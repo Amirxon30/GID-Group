@@ -1,0 +1,141 @@
+@media(max-width: 834px){
+    .container{
+    }
+    .navbar{
+        flex-direction: flex;
+        justify-content: space-between;
+    }
+    main{
+        padding: 29px 84px 39px 84px;
+    }
+    .top-btns{
+        margin: 67px 0px 67px 0px;
+    }
+    .top-row{
+        display: flex;
+        gap: 251px;
+        margin-bottom: 159px;
+    }
+    .top-row .left{
+        width: 40px;
+        height: 100px;
+    }
+    .num1{
+        font-size: 52px;
+    }
+    .style-title{
+        font-size: 14px;
+    }
+    .style_selected{
+        font-size: 10px;
+    }
+    .gallery1{
+    }
+    .gallery1 img{
+        width: 4210px;
+        height: 255px;
+    }
+    .row2{
+        display: flex;
+        gap: 251px;
+        margin-bottom: 64px;
+    }
+    .num2{
+        font-size: 52px;
+    }
+    .row2 .left{
+        width: 40px;
+        height: 100px;
+    }
+    .row2 .right2{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .comment3{
+        margin-left: -92px;
+    }
+    .img5,.img6, .img7{
+        width: 209px;
+        height: 290px;
+        background-position: center;
+        background-size: cover;
+    }
+    .img8{
+        width: 640px;
+        height: 360px;
+        background-position: center;
+        background-size: cover;
+    }
+    .num3{
+        font-size: 52px;
+    }
+    .row3{
+        gap: 237px;
+    }
+    .row3 .left{
+        width: 40px;
+        height: 100px;
+    }
+    .row3 .right3{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .comment5{
+        margin-left: -92px;
+    }
+    .work-process img{
+        width: 322px;
+        height: 200px;
+    }
+    .gallery3 .img9, .gallery3 .img10{
+        width: 323px;
+        height: 320px;
+        margin-bottom: 0px;
+        background-position: center;
+        background-size: cover;
+    }
+    .img8{
+        width: 665px;
+        height: 374px;
+    }
+    .num5{
+        font-size: 52px;
+    }
+    .row5{
+        gap: 261px;
+    }
+    .row5 .left{
+        width: 40px;
+        height: 100px;
+    }
+    .row5 .right5{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .comment7{
+        margin-left: -92px;
+    }
+    .img11{
+        width: 665px;
+        height: 356px;
+        background-position: center;
+        background-size: cover;
+    }
+    .request{
+        padding: 60px 84px;
+        flex-direction: column;
+        gap: 50px;
+    }
+    .request-title{
+        font-size: 21px;
+        line-height: 0px;     
+    }
+    .request-btn a{
+        font-size: 17px;
+        padding: 17px 59px;
+    }
+    .footer-navbar{
+        background-position: center;
+        background-size: cover;
+    }
+}
